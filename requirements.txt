@@ -1,0 +1,24 @@
+# LLM y embeddings
+langchain
+langchain-core
+langchain-google-genai
+
+# Agente
+langgraph
+
+# RAG
+langchain-chroma
+chromadb
+langchain-community
+langchain-text-splitters
+pypdf
+
+# Datos y utilidades
+pandas
+python-dotenv
+
+# Notebook
+ipykernel
+
+# Bonus
+streamlit
